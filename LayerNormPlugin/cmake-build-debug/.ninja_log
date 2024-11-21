@@ -1,0 +1,4 @@
+# ninja log v6
+1	10402	7538034240517735	CMakeFiles/LayerNormPlugin.dir/LayerNormPlugin.cu.obj	be65e146257e978d
+11	153	7538034571071222	LayerNormPlugin.dll	48a60c51a537d206
+11	153	7538034571071222	LayerNormPlugin.lib	48a60c51a537d206
