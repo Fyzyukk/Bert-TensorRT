@@ -64,7 +64,7 @@ https://github.com/NVIDIA/trt-samples-for-hackathon-cn。
 https://blog.csdn.net/weixin_42479327?type=blog
 https://www.zhihu.com/people/lemonround/posts
 
-基础知识就到这里了，下一步会具体做一个vllm和yolo的模型部署项目，做完就去找实习了。学的不是很精，只是了解一些基础。
+基础知识就到这里了
 
 
 
